@@ -1,0 +1,266 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+      "price": "99.99",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+    },
+    {
+      "id": "Exm-IITSn9sqCWg-eqAfJ",
+      "title": "Apple iPhone 15 Plus (128 GB) - Pink",
+      "price": "71999",
+      "category": "Phone",
+      "image": "https://m.media-amazon.com/images/I/71bErtQPC3L._SX679_.jpg",
+      "description": "\n48MP MAIN CAMERA WITH 2X TELEPHOTO — The 48MP Main camera shoots in super-high resolution. So it’s easier than ever to take standout photos with amazing detail. The 2x optical-quality Telephoto lets you frame the perfect close-up.\nNEXT-GENERATION PORTRAITS — Capture portraits with dramatically more detail and color. Just tap to shift the focus between subjects — even after you take the shot.\nPOWERHOUSE A16 BIONIC CHIP — The superfast chip powers advanced features like computational photography, fluid Dynamic Island transitions, and Voice Isolation for phone calls. And A16 Bionic is incredibly efficient to help deliver great all-day battery life."
+    },
+    {
+      "id": "T080mdkrBOXC8xeEb6-07",
+      "title": "Samsung Galaxy S25 5G Smartphone with Galaxy AI, Snapdragon 8 Elite, 50 MP Camera with ProVisual Engine and 4000mAh Battery",
+      "price": "74999",
+      "category": "Phone",
+      "image": "https://m.media-amazon.com/images/I/61D3EdXKG5L._SX679_.jpg",
+      "description": "GALAXY AI - Ring in the next era of mobile AI with an AI companion who's one step ahead of your every need. Just let natural conversation guide the way to checking off everyday tasks with ease. Seamlessly complete your tasks without having to switch between various apps. Simply press and hold the side button to access Google Gemini for help.\nGEMINI LIVE – Go live, get answers. Have free-flowing conversation with Gemini Live to brainstorm ideas or prepare for presentations by attaching images and getting real-time responses that adapt to your conversation style."
+    },
+    {
+      "id": "pZV8poUSsYqbCImAlOcn_",
+      "title": "OnePlus 13R | Smarter with OnePlus AI | Lifetime Display Warranty (12GB RAM, 256GB Storage Nebula Noir)",
+      "price": "42999",
+      "category": "Phone",
+      "image": "https://m.media-amazon.com/images/I/61muVCIy-uL._SX679_.jpg",
+      "description": "Flagship power made smarter with the Snapdragon 8 Gen 3 flagship – Up to 98% faster AI, 30% faster CPU compared to the OnePlus 12R. The OnePlus 13R maximizes the CPU efficiency of the Snapdragon 8 Gen 3 when gaming, while lowering heat and power consumption.\nWinning made smooth with maximum 120fps gaming experience, no input delay and zero-touch latency gameplay. We've tuned the GPU pipeline to unlock near-instant 120fps HDR gaming that hits harder than any highlight."
+    },
+    {
+      "id": "c691FQ5cEzK6ky62O3Cj5",
+      "title": "OnePlus 13s | Snapdragon® 8 Elite | Smarter with OnePlus AI | Lifetime Display Warranty | 12GB+256GB | Green Silk",
+      "price": "54998",
+      "category": "Phone",
+      "image": "https://m.media-amazon.com/images/I/61BTIyv+XdL._SX679_.jpg",
+      "description": "Elite Performance - At the core of OnePlus 13s, lies the Snapdragon 8 Elite – the fastest Snapdragon mobile processor, powering OnePlus AI, stunning graphics and next-gen performance. With state-of-the-art Cryo-Velocity cooling system, OnePlus 13s runs cool, no matter where you are.\nSmarter Everyday – Experience the power of OnePlus AI with Oxygen OS 15 out of the box. Oxygren OS 15 brings deep improvements that power OnePlus AI, making organising your life easy with AI Plus Mind, enhancing efficiency with Intelligent Search and improving productivity with Google Gemini."
+    },
+    {
+      "id": "GojHS-Ws8ai4MO74ZhHmA",
+      "title": "boAt New Launch Storm Infinity w/15 Days Extensive Battery fueled by Huge 550mAh Battery, Fast Charge, Sports Strap,1.83”(4.65cm)HD Display, Functional Crown Smart watch for Men & Women (Sports Green)",
+      "price": "1799",
+      "category": "Smart Watch",
+      "image": "https://m.media-amazon.com/images/I/91pwbCPh0+L._SX679_.jpg",
+      "description": "Operating System\tandroid\nSpecial Feature\tBluetooth Calling\nBattery Capacity\t550 Milliamp Hours\nConnectivity Technology\tBluetooth\nWireless Communication Standard\tBluetooth"
+    },
+    {
+      "id": "Jyf-Z2mHQnn7_wwAOjrge",
+      "title": "AGEasy Boat Protec Neo Smartwatch with SOS Button for Live Location Sharing | 1.43” AMOLED Display, BT Calling, Health Monitoring, QR Tray, 5 Days Battery Life | Smartwatch for Men & Women (Black)",
+      "price": "3999",
+      "category": "Smart Watch",
+      "image": "https://m.media-amazon.com/images/I/71O4EnuEl4L._SX679_.jpg",
+      "description": "[QUALITY YOU CAN TRUST]: Designed with the trusted healthcare values of Max Group and powered by the performance of boAt smart technology.\n[INSTANT SOS BUTTON]: The boAt AGEasy Protec Neo Smartwatch features an instant SOS button that sends real-time SMS alerts and shares your live location with loved ones—ensuring help is just a tap away during emergencies.\n[BLUETOOTH CALLING]: Make and receive calls directly from your wrist with the inbuilt microphone and speaker—stay hands-free, connected, and accessible at all times, even without reaching for your phone."
+    },
+    {
+      "id": "DJ0kHId8Z1tMqXwfku95Z",
+      "title": "boAt New Launch Ultima Ember Smartwatch w/ 1.96” (4.97 cm) AMOLED Display, Personalized Fitness Nudges, Functional Crown, 100+ Sports Modes, Custom Watch Faces (Silver Mist)",
+      "price": "2199",
+      "category": "Smart Watch",
+      "image": "https://m.media-amazon.com/images/I/71tffGYmGFL._SX679_.jpg",
+      "description": "1.96” (4.97 cm) AMOLED Display: Experience a crystal-clear view on the 1.96” (4.97 cm) AMOLED display of the boAt Ultima Ember Smartwatch. With a 368x448p resolution and Always on Display, it makes checking the time, notifications, vital stats, and more effortless.\nFunctional Crown: Navigate through the options on the menu, scroll through notifications, and control other features effortlessly with the functional crown."
+    },
+    {
+      "id": "Nh3sHUTFlozasSDbqegvQ",
+      "title": "ASUS Dual Radeon RX 6600 8 GB GDDR6 RAM PCIe 4.0 Dual Fans Desktop Graphic Card, pci_e_x16",
+      "price": "20849",
+      "category": "GPU",
+      "image": "https://m.media-amazon.com/images/I/61w9O1yPrdL._SX679_.jpg",
+      "description": "Axial-tech fan design features a smaller fan hub that facilitates longer blades and a barrier ring that increases downward air pressure.\nDual ball fan bearings can last up to twice as long as sleeve bearing designs.\nMinimum power supply required only 500W\nUp to 2491 MHz (Boost Clock)/up to 2044 MHz (Game Clock)\nAuto-Extreme Technology uses automation to enhance reliability.\nA protective backplate prevents PCB flex and trace damage."
+    },
+    {
+      "id": "2",
+      "title": "Mens Casual Premium Slim Fit T-Shirts ",
+      "price": "22.99",
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Mens Cotton Jacket",
+      "price": 55.99,
+      "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Mens Casual Slim Fit",
+      "price": 15.99,
+      "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
+    },
+    {
+      "id": "mUc-NuOXU69Q5lEj6duTV",
+      "title": "iPhone 16 128 GB: 5G Mobile Phone with Camera Control, A18 Chip and a Big Boost in Battery Life. Works with AirPods; Ultramarine",
+      "price": "829.99",
+      "category": "Phone",
+      "image": "https://m.media-amazon.com/images/I/712SuRmHG4L._SX679_.jpg",
+      "description": "BUILT FOR APPLE INTELLIGENCE — Apple Intelligence is the personal intelligence system that helps you write, express yourself and get things done effortlessly. With groundbreaking privacy protections, it gives you peace of mind that no one else can access your data — not even Apple.\nTAKE TOTAL CAMERA CONTROL — Camera Control gives you an easier way to quickly access camera tools, like zoom or depth of field, so you can take the perfect shot in record time.\nGET FURTHER AND CLOSER — The improved Ultra Wide camera with autofocus lets you take incredibly detailed macro photos and videos. Use the 48MP Fusion camera for stunning high-resolution images, and zoom in with the 2x optical-quality Telephoto.\nPHOTOGRAPHIC STYLES — The latest-generation Photographic Styles give you greater creative flexibility, so you can make every photo even more you. And you can reverse any of those styles anytime you want.\nSUPER-SMART A18 CHIP — A18 jumps two generations ahead of the A16 Bionic chip in iPhone 15. It enables Apple Intelligence, powers advanced photo and video features, and supports console-level gaming, with exceptional power efficiency."
+    },
+    {
+      "id": "5",
+      "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+      "price": 695,
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Solid Gold Petite Micropave ",
+      "price": 168,
+      "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg"
+    },
+    {
+      "id": "7",
+      "title": "White Gold Plated Princess",
+      "price": 9.99,
+      "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+      "price": 10.99,
+      "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg"
+    },
+    {
+      "id": "9",
+      "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
+      "price": 64,
+      "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg"
+    },
+    {
+      "id": "10",
+      "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+      "price": 109,
+      "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg"
+    },
+    {
+      "id": "11",
+      "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
+      "price": 109,
+      "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg"
+    },
+    {
+      "id": "12",
+      "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+      "price": 114,
+      "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg"
+    },
+    {
+      "id": "13",
+      "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+      "price": 599,
+      "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg"
+    },
+    {
+      "id": "14",
+      "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
+      "price": "998.99",
+      "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg"
+    },
+    {
+      "id": "15",
+      "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+      "price": 56.99,
+      "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg"
+    },
+    {
+      "id": "16",
+      "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+      "price": 29.95,
+      "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg"
+    },
+    {
+      "id": "17",
+      "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+      "price": 39.99,
+      "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg"
+    },
+    {
+      "id": "18",
+      "title": "MBJ Women's Solid Short Sleeve Boat Neck V ",
+      "price": 9.85,
+      "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg"
+    }
+  ],
+  "users": [
+    {
+      "id": "HeE99qC-kkiMvtL8sthZD",
+      "username": "admin",
+      "email": "abc3@gmail.com",
+      "password": "admin",
+      "isAdmin": true,
+      "cart": [
+        {
+          "product": {
+            "id": "Exm-IITSn9sqCWg-eqAfJ",
+            "title": "Apple iPhone 15 Plus (128 GB) - Pink",
+            "price": "71999",
+            "category": "Phone",
+            "image": "https://m.media-amazon.com/images/I/71bErtQPC3L._SX679_.jpg",
+            "description": "\n48MP MAIN CAMERA WITH 2X TELEPHOTO — The 48MP Main camera shoots in super-high resolution. So it’s easier than ever to take standout photos with amazing detail. The 2x optical-quality Telephoto lets you frame the perfect close-up.\nNEXT-GENERATION PORTRAITS — Capture portraits with dramatically more detail and color. Just tap to shift the focus between subjects — even after you take the shot.\nPOWERHOUSE A16 BIONIC CHIP — The superfast chip powers advanced features like computational photography, fluid Dynamic Island transitions, and Voice Isolation for phone calls. And A16 Bionic is incredibly efficient to help deliver great all-day battery life."
+          },
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "SXw1HB-vUxvXq9uJmAoiY",
+      "username": "manan",
+      "email": "scvxc@as.com",
+      "password": "1234",
+      "isAdmin": false,
+      "cart": []
+    },
+    {
+      "id": "Fbvvm_qFpA4Du0EnKdgsu",
+      "username": "ghfghgh",
+      "email": "fgbffghfghfgh@gdffg.sdfdf",
+      "password": "12",
+      "isAdmin": false,
+      "cart": []
+    },
+    {
+      "id": "0tPh9DXQc89ZeNVDr0gif",
+      "username": "abcd",
+      "email": "abcd@gmail.com",
+      "password": "Manan@3112",
+      "isAdmin": false,
+      "cart": []
+    }
+  ]
+}
