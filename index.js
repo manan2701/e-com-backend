@@ -9,7 +9,7 @@ app.use(cors());
 app.use(express.json());
 
 // Read JSON file
-const data = JSON.parse(fs.readFileSync('./data.json', 'utf-8'));
+const data = JSON.parse(fs.readFileSync('./db.json', 'utf-8'));
 
 // GET all products
 app.get('/api/products', (req, res) => {
