@@ -1,30 +1,10 @@
-import express from 'express';
-import fs from 'fs';
-import cors from 'cors';
+const jsonServer = require("json-server"); // importing json-server library
+const server = jsonServer.create();
+const router = jsonServer.router("db.json");
+const middlewares = jsonServer.defaults();
+const port = process.env.PORT || 8080; //  chose port from here like 8080, 3001
 
-const app = express();
-const PORT = process.env.PORT || 5000;
+server.use(middlewares);
+server.use(router);
 
-app.use(cors());
-app.use(express.json());
-
-// Read JSON file
-const data = JSON.parse(fs.readFileSync('./data.json', 'utf-8'));
-
-// GET all products
-app.get('/api/products', (req, res) => {
-  res.json(data.products);
-});
-
-// GET all users
-app.get('/api/users', (req, res) => {
-  res.json(data.users);
-});
-
-// Optional: get specific product/user
-app.get('/api/products/:id', (req, res) => {
-  const product = data.products.find(p => p.id === req.params.id);
-  product ? res.json(product) : res.status(404).send("Product not found");
-});
-
-app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
+server.listen(port);
